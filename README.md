@@ -11,6 +11,7 @@ This dashboard serves as an introductory glance into the dataset, capturing the 
 * Gender Distribution of Customers
 * Product Importance Levels
 * Customer Ratings
+
 **Key Performance Indicators (KPIs):**
 * Average Cost of Product
 * Average Customer Care Calls
