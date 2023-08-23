@@ -43,7 +43,7 @@ This dashboard is a deep dive into the intricacies of the shipping process. It's
 
 This project is designed to offer a comprehensive view of shipping operations, aiding stakeholders(The Stride Logistics) in making informed decisions and identifying areas of improvement.
 
-Access the full dashboard [here] (https://public.tableau.com/views/Stride_Case_Study/BusinessMetricsSnapshot?:language=en-US&:display_count=n&:origin=viz_share_link)
+**Access the full dashboard** [here] (https://public.tableau.com/views/Stride_Case_Study/BusinessMetricsSnapshot?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 * Link for [Dashboard 1](https://public.tableau.com/views/Stride_Case_Study/BusinessMetricsSnapshot?:language=en-US&:display_count=n&:origin=viz_share_link)
 * Link for [Dashboard 2](https://public.tableau.com/views/Stride_Case_Study/NavigatingDeliverySuccessesSetbacks?:language=en-US&:display_count=n&:origin=viz_share_link)
