@@ -35,11 +35,9 @@ This dashboard is a deep dive into the intricacies of the shipping process. It's
 ## Tools & Technologies
 **Tableau:** The primary tool used for designing the interactive dashboards and visualizations. Leveraging Tableau's capabilities, these dashboards offer dynamic and insightful visual representations of the dataset.
 ## How to Use
-**Navigation:** Start by choosing the dashboard you're interested in exploring.
-**Interactivity:** Engage with the visual components to delve deeper into specific metrics or to view data from different angles.
-**Customization:** Use the filters or selectors to tailor the data view based on your criteria. For instance, in the "Navigating Delivery Successes & Setbacks" dashboard, you can filter data by the mode of shipment.
-
-
+* **Navigation:** Start by choosing the dashboard you're interested in exploring.
+* **Interactivity:** Engage with the visual components to delve deeper into specific metrics or to view data from different angles.
+* **Customization:** Use the filters or selectors to tailor the data view based on your criteria. For instance, in the "Navigating Delivery Successes & Setbacks" dashboard, you can filter data by the mode of shipment.
 
 
 This project is designed to offer a comprehensive view of shipping operations, aiding stakeholders in making informed decisions and identifying areas of improvement.
